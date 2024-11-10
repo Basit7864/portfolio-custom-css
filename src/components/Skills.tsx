@@ -9,10 +9,8 @@ const Skills = () => {
         <div data-aos="zoom-in-up" className="skills-left">
           <h2 className="skills-heading">Technologies I work with</h2>
           <p className="skills-text">
-            I have a solid foundation in web development, specializing in HTML, CSS, and JavaScript.
-            My experience extends to using frameworks like React and Next.js to create dynamic and
-            user-friendly applications. I am also proficient in Tailwind CSS for efficient styling and design.
-            With a passion for learning, I stay updated on the latest technologies to enhance my skill set and contribute effectively to projects.
+           I'm a graphic designer and I design logos, brochures, web designing, flyers, business cards, invitation cards, & much more designs new 
+           to relate with graphic designing.
           </p>
         </div>
 
